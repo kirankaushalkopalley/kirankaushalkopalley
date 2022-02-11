@@ -4,6 +4,8 @@
 - 💞️ Ask me anything about technologies associated with Data Science. I’m looking to collaborate on any projects associated with data and help new businesses by consulting thus improving their throughput.
 - 📫 Reach me on my LinkedIn https://www.linkedin.com/in/kirankaushalkopalley/ or at my email kirankaushal.kopalley@gmail.com
 
+
+[![Kiran Kaushal's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirankaushalkopalley)
 <!---
 kirankaushalkopalley/kirankaushalkopalley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
